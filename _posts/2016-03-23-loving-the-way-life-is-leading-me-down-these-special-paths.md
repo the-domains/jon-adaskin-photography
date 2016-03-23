@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Loving the way life is leading me down these special paths! \_"
-datePublished: '2016-03-23T19:13:44.812Z'
-dateModified: '2016-03-23T19:12:08.608Z'
+description: '"these are images of my daily inspirations, beauty is everywhere, it starts inside each one of us"'
+datePublished: '2016-03-23T19:15:04.112Z'
+dateModified: '2016-03-23T19:14:56.066Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-23-loving-the-way-life-is-leading-me-down-these-special-paths.md
