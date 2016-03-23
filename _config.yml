@@ -1,6 +1,6 @@
 name: Jon Adaskin Photography
 favicon: null
-layout_spectrum: 0.00128
+layout_spectrum: 0.49876
 typography_spectrum: 0.75831
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#a2a2a2'
     - '#464646'
     - '#cccccc'
-  brandStrength: 0.15374220465309918
+  brandStrength: 1
   lightness: 0.85637694504112
   saturation: 0.37569672451354563
   rhythmicContrast: 0.8658250730950385
