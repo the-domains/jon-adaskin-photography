@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"these are images of my daily inspirations, beauty is everywhere, it starts inside each one of us"'
-datePublished: '2016-03-23T21:21:17.472Z'
-dateModified: '2016-03-23T21:21:07.718Z'
+datePublished: '2016-03-23T21:25:28.238Z'
+dateModified: '2016-03-23T21:25:01.984Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-23-loving-the-way-life-is-leading-me-down-these-special-paths.md
@@ -22,11 +22,6 @@ url: loving-the-way-life-is-leading-me-down-these-special-paths/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55be871c-b4b9-42f5-a5b4-debdb0f820cc.jpg)
+
 ## Loving the way life is leading me down these special paths!  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/053db467-9f25-4f65-aecb-670f04a79cb0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc14b098-266b-47f1-ad63-dd85fd75cc1c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5c8cc0e-69e5-411e-b106-55833befbd05.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57284fd5-0ca9-4454-9542-6b04bbf54bb8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6cbaf94-190a-416a-989c-f2a01504f6bd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fbc053a-4c71-497f-bf79-20136b36adb7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d528a8f-d1b6-4bf7-a145-30ffeffb4845.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91f6c96f-13ff-4940-8c1d-a89c2741c7ad.jpg)
