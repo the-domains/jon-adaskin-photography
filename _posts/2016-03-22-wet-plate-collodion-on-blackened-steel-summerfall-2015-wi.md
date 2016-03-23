@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Wet plate Collodion on Blackened Steel. Summer/Fall 2015. Winnipeg, Canada'
-datePublished: '2016-03-23T02:58:07.545Z'
-dateModified: '2016-03-22T22:17:14.276Z'
+datePublished: '2016-03-23T14:40:40.137Z'
+dateModified: '2016-03-23T14:40:30.164Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-22-wet-plate-collodion-on-blackened-steel-summerfall-2015-wi.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 Wet plate Collodion on Blackened Steel. Summer/Fall 2015\. Winnipeg, Canada
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fff4d33b-2dd4-4b0a-ab8c-7a3a92e8a8be.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/098b3085daf359cdd0e3044d1c38daff405b7f65.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbd1f127-a179-48c7-b3b0-c010ad898033.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7ab0f59-2eda-4fbc-9c42-3afa4e347d2d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e996df93-19c9-4e3c-aebc-d43660fd47a3.jpg)
