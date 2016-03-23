@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'Like my children, this webspace is growing and evolving in beautiful and amazing ways! This is the beginning of something incredible! Join me in this awe inspiring journey!'
-datePublished: '2016-03-23T13:46:17.255Z'
-dateModified: '2016-03-23T13:11:11.504Z'
+datePublished: '2016-03-23T13:50:06.891Z'
+dateModified: '2016-03-23T13:47:51.666Z'
 title: 'My Inspiration '
 author: []
 sourcePath: _posts/2016-03-22-like-my-children-this-webspace-is-growing-and-evolving-in-b.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: my-inspiration/index.html
-_type: Blurb
+_type: Article
 
 ---
 Like my children, this webspace is growing and evolving in beautiful and amazing ways! This is the beginning of something incredible! Join me in this awe inspiring journey!
