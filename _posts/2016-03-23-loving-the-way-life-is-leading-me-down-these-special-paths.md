@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"these are images of my daily inspirations, beauty is everywhere, it starts inside each one of us"'
-datePublished: '2016-03-23T21:28:31.576Z'
-dateModified: '2016-03-23T21:25:30.938Z'
+datePublished: '2016-03-29T23:27:43.896Z'
+dateModified: '2016-03-29T23:27:43.414Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-23-loving-the-way-life-is-leading-me-down-these-special-paths.md
