@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '~'
-datePublished: '2016-03-29T23:36:09.022Z'
-dateModified: '2016-03-29T23:34:59.302Z'
+datePublished: '2016-03-29T23:39:25.319Z'
+dateModified: '2016-03-29T23:38:40.474Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-22-wet-plate-collodion-on-blackened-steel-summerfall-2015-wi.md
