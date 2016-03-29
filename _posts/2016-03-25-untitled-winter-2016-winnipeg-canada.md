@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:8cd3aede-0695-4cc0-8416-0f86e4f45d04'
+inLanguage: null
+starred: false
+keywords: []
 description: 'Untitled. Winter 2016. Winnipeg, Canada'
+datePublished: '2016-03-29T23:27:22.838Z'
+dateModified: '2016-03-29T23:27:22.494Z'
 author: []
-datePublished: '2016-03-25T02:25:30.177Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Untitled. Winter 2016. Winnipeg, Canada '
-dateModified: '2016-03-25T02:22:19.973Z'
 sourcePath: _posts/2016-03-25-untitled-winter-2016-winnipeg-canada.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: untitled-winter-2016-winnipeg-canada/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
