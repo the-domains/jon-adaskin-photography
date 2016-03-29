@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: '~'
-datePublished: '2016-03-29T23:39:45.701Z'
-dateModified: '2016-03-29T23:39:34.430Z'
-title: ''
+datePublished: '2016-03-29T23:47:09.302Z'
+dateModified: '2016-03-29T23:46:46.093Z'
+title: "Wet plate Collodion on Blackened Steel. Summer/Fall 2015. Winnipeg, Canada (click on photo to see more) \_"
 author: []
 sourcePath: _posts/2016-03-22-wet-plate-collodion-on-blackened-steel-summerfall-2015-wi.md
 published: true
@@ -22,7 +22,7 @@ url: wet-plate-collodion-on-blackened-steel-summerfall-2015-wi/index.html
 _type: Article
 
 ---
-## Wet plate Collodion on Blackened Steel. Summer/Fall 2015\. Winnipeg, Canada (click on photo to see more)  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/098b3085daf359cdd0e3044d1c38daff405b7f65.jpg)
+# Wet plate Collodion on Blackened Steel. Summer/Fall 2015\. Winnipeg, Canada (click on photo to see more)  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/098b3085daf359cdd0e3044d1c38daff405b7f65.jpg)
 
 ~
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbd1f127-a179-48c7-b3b0-c010ad898033.jpg)
