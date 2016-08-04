@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T19:36:03.469Z'
+datePublished: '2016-08-04T19:40:27.418Z'
 sourcePath: _posts/2016-03-22-wet-plate-collodion-on-blackened-steel-summerfall-2015-wi.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-04T19:36:02.807Z'
+dateModified: '2016-08-04T19:40:26.609Z'
 title: ''
 publisher: {}
 description: '~'
@@ -19,7 +19,7 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78bd089a-2a30-44b2-bdb4-9591c2d95585.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72f07c39-e8b6-44e4-a01f-deb02e0bf42d.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38c0bb593f327d88c61d46a4b4712eb7/croprotate.jpg?cropheight=7936&cropwidth=6301&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F72f07c39-e8b6-44e4-a01f-deb02e0bf42d.jpg&x=0&y=0)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/098b3085daf359cdd0e3044d1c38daff405b7f65.jpg)
 
 ~
