@@ -1,26 +1,22 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:8cd3aede-0695-4cc0-8416-0f86e4f45d04'
-inLanguage: null
-starred: false
-keywords: []
-description: 'Untitled. Winter 2016. Winnipeg, Canada'
-datePublished: '2016-03-29T23:27:22.838Z'
-dateModified: '2016-03-29T23:27:22.494Z'
-author: []
-title: 'Untitled. Winter 2016. Winnipeg, Canada '
+datePublished: '2016-08-25T20:19:05.203Z'
 sourcePath: _posts/2016-03-25-untitled-winter-2016-winnipeg-canada.md
-published: true
+inFeed: true
+isBasedOnUrl: 'urn:uuid:8cd3aede-0695-4cc0-8416-0f86e4f45d04'
 authors: []
-publisher:
-  name: ''
-  domain: ''
-  url: null
-  favicon: null
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-25T20:19:04.706Z'
+title: ''
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Untitled. Winter 2016\. Winnipeg, Canada ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c47bc7e3-9417-417c-9fa9-2f32b35c8359.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6191762ca775fd60c61e3a26434fe4ace533bfb9.png)
