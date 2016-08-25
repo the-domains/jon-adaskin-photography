@@ -1,28 +1,29 @@
 ---
+datePublished: '2016-08-25T20:45:55.547Z'
+sourcePath: >-
+  _posts/2016-03-22-like-my-children-this-webspace-is-growing-and-evolving-in-b.md
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: '"...my family is my strength..."'
-datePublished: '2016-03-23T17:24:21.670Z'
-dateModified: '2016-03-23T17:24:10.264Z'
-title: ''
-author: []
-sourcePath: _posts/2016-03-22-like-my-children-this-webspace-is-growing-and-evolving-in-b.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-25T20:45:54.660Z'
+title: ''
+publisher: {}
+description: >-
+  Like my children, this webspace is growing and evolving in beautiful and
+  amazing ways! This is the beginning of something incredible! Join me in this
+  awe inspiring journey!
+inLanguage: null
+inNav: false
+starred: false
 url: my-inspiration/index.html
 _type: Article
 
 ---
-## Like my children, this webspace is growing and evolving in beautiful and amazing ways! This is the beginning of something incredible! Join me in this awe inspiring journey!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91128171-2a4c-4e5a-8afb-1974f060cd11.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89cc1b08-f51b-486a-92d3-3457e5fe8d5b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49a4e0fb-bd77-48f4-a317-2ed3b207759f.jpg)
+![Like my children, this webspace is growing and evolving in beautiful and amazing ways! This is the beginning of something incredible! Join me in this awe inspiring journey!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ccae303bee11ec774a14f7080f22308e632f967.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9444809de99761f25b66c65529507d8dcda2c578.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/de0eac2e96a61d3c2056c47b1724c1e0c8e4ac3c.jpg)
