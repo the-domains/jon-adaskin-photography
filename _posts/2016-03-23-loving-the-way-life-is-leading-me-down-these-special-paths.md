@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T20:55:31.071Z'
+datePublished: '2016-08-25T20:59:56.088Z'
 sourcePath: >-
   _posts/2016-03-23-loving-the-way-life-is-leading-me-down-these-special-paths.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T20:55:30.705Z'
+dateModified: '2016-08-25T20:59:55.589Z'
 title: ''
 publisher: {}
 description: Loving the way life is leading me down these special paths!
