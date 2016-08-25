@@ -1,14 +1,13 @@
 ---
-description: ''
-author: []
-datePublished: '2016-03-27T16:37:42.304Z'
-publisher:
-  domain: ''
-  name: ''
-title: '"...the morning sunlight makes me feel good..."'
-dateModified: '2016-03-27T16:37:01.877Z'
+datePublished: '2016-08-25T20:16:43.040Z'
 sourcePath: _posts/2016-03-27-the-morning-sunlight-makes-me-feel-good.md
-published: true
+author: []
+via: {}
+dateModified: '2016-08-25T20:16:42.714Z'
+title: ''
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
@@ -17,5 +16,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# "...the morning sunlight makes me feel good..."
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f75a215-0ac4-4578-ad36-10d3df2be0f0.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d25e202bcb2fec2d33a60f3184f407df998ffa8.png)
