@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T20:42:23.078Z'
+datePublished: '2016-08-25T21:41:33.592Z'
 sourcePath: _posts/2016-04-01-patrick-spring-2016-winnipeg-mb-canada.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T20:42:22.729Z'
+dateModified: '2016-08-25T21:41:33.286Z'
 title: ''
 publisher: {}
 description: 'Patrick. Spring 2016. Winnipeg, MB. Canada '
