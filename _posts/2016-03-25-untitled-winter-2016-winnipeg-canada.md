@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T20:19:05.203Z'
+datePublished: '2016-08-25T22:08:34.271Z'
 sourcePath: _posts/2016-03-25-untitled-winter-2016-winnipeg-canada.md
 inFeed: true
 isBasedOnUrl: 'urn:uuid:8cd3aede-0695-4cc0-8416-0f86e4f45d04'
@@ -8,7 +8,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T20:19:04.706Z'
+dateModified: '2016-08-25T22:08:33.913Z'
 title: ''
 publisher: {}
 description: ''
