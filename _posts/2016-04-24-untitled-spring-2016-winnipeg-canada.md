@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-25T20:13:45.216Z'
+datePublished: '2016-08-25T21:47:53.056Z'
 sourcePath: _posts/2016-04-24-untitled-spring-2016-winnipeg-canada.md
 author: []
 via: {}
-dateModified: '2016-08-25T20:13:44.850Z'
+dateModified: '2016-08-25T21:47:52.776Z'
 title: ''
 publisher: {}
 description: 'Untitled. Spring 2016. Winnipeg, Canada.'
