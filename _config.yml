@@ -1,19 +1,4 @@
-name: Jon Adaskin Photography
-favicon: null
-layout_spectrum: 0.49876
 typography_spectrum: 0.50124
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#020202'
@@ -25,4 +10,20 @@ color:
   lightness: 0
   saturation: 0.37569672451354563
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49876
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Jon Adaskin Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: jon@jonadaskin.com   204-963-0423
 purpose: []
