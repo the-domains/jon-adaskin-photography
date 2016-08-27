@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-26T19:23:53.094Z'
+datePublished: '2016-08-26T19:27:22.834Z'
+sourcePath: _posts/2016-04-24-untitled-spring-2016-winnipeg-canada.md
 author: []
 via: {}
-dateModified: '2016-08-26T19:23:52.458Z'
+dateModified: '2016-08-26T19:26:54.243Z'
 title: ''
 id: d120bd89-75f1-4341-ba18-791b1e7c5add
 publisher: {}
 description: 'Untitled. Spring 2016. Winnipeg, Canada '
-sourcePath: _posts/2016-04-24-untitled-spring-2016-winnipeg-canada.md
 starred: true
 inFeed: true
 hasPage: false
