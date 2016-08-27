@@ -1,21 +1,18 @@
 ---
-datePublished: '2016-08-26T19:10:40.239Z'
+id: ec502c0f-78fc-4661-987a-1700f15f609b
+dateModified: '2016-08-26T19:21:31.645Z'
+title: ''
+datePublished: '2016-08-26T19:21:32.435Z'
+author: []
+description: 'Luke. Wet Plate Collodion on Blackened Steel. Summer 2016. Winnipeg, Canada'
+publisher: {}
+via: {}
+starred: false
 sourcePath: _posts/2016-03-22-wet-plate-collodion-on-blackened-steel-summerfall-2015-wi.md
 inFeed: true
-authors: []
-hasPage: true
-keywords: []
-author: []
-via: {}
-dateModified: '2016-08-26T19:10:39.832Z'
-title: ''
-publisher: {}
-description: 'Luke. Wet Plate Collodion on Blackened Steel. Summer 2016. Winnipeg, Canada'
-inLanguage: null
+hasPage: false
 inNav: false
-starred: true
-url: wet-plate-collodion-on-blackened-steel-summerfall-2015-wi/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![Luke. Wet Plate Collodion on Blackened Steel. Summer 2016. Winnipeg, Canada](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78bd089a-2a30-44b2-bdb4-9591c2d95585.jpg)
