@@ -1,14 +1,14 @@
 ---
 id: ec502c0f-78fc-4661-987a-1700f15f609b
-dateModified: '2016-08-26T19:21:31.645Z'
+dateModified: '2016-08-26T19:22:13.124Z'
 title: ''
-datePublished: '2016-08-26T19:21:32.435Z'
+datePublished: '2016-08-26T19:22:14.070Z'
 author: []
 description: 'Luke. Wet Plate Collodion on Blackened Steel. Summer 2016. Winnipeg, Canada'
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-03-22-wet-plate-collodion-on-blackened-steel-summerfall-2015-wi.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
